@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-oop-and-simulations.iml" filepath="$PROJECT_DIR$/.idea/java-oop-and-simulations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab1-employee-management/lab1-employee-management.iml" filepath="$PROJECT_DIR$/labs/lab1-employee-management/lab1-employee-management.iml" />
     </modules>
   </component>
 </project>
